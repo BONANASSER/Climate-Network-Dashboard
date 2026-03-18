@@ -1,6 +1,5 @@
 # Climate-Network-Dashboard
-Got you 👍 Bona.
-Here is a **complete, clean, ready-to-publish GitHub README.md** for your project:
+
 
 # 🌍 Climate Network: A Multi-Faceted Visual Analytics System
 
@@ -128,7 +127,7 @@ The system is implemented using **Python and Dash**, enabling coordinated multip
 ### Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/climate-network.git
+git clone (https://github.com/BONANASSER/Climate-Network-Dashboard)
 cd climate-network
 ```
 
@@ -155,7 +154,7 @@ python app.py
 Open browser:
 
 ```
-http://127.0.0.1:8050/
+http://127.0.0.1:8051/
 ```
 
 ---
